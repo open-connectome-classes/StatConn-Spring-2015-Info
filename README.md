@@ -50,11 +50,11 @@
   * 3/24: Briggman et al. (2011): "Wiring specificity in the direction-selectivity circuit of the retina
   * 3/26: http://arxiv.org/abs/1207.6745 (Consistent latent position estimation and vertex classification for random dot product graphs) and Universally consistent vertex classification for latent positions graphs
   * 3/31: Mishchenko et al.: "Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective
-  * 4/2:  
+  * 4/2:  Finding and evaluating community structure in networks
   * 4/7:  Space-time wiring specificity supports direction selectivity in the retina
   * 4/9: Hotelling31a, A Semiparametric Two-sample Hypothesis Testing for Random Dot Product Graphs, A Nonparametric Two-sample Hypothesis Testing for Random Dot Product Graphs
   * 4/14: bobby's paper
-  * 4/16: Finding and evaluating community structure in networks
+  * 4/16: signal subgraphs
   * 4/21: Imagenet classification with deep convolutional neural networks
   * 4/23: Hotelling36a 
   * 4/28: http://www.pnas.org/content/107/10/4734.short (Toward discovery science of human brain function)

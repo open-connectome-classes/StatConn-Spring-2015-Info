@@ -45,19 +45,19 @@
   * 3/5: you say graph invariant, i say test statistic
   * 3/10: Pavlovic14a
   * 3/12: Sussman12a, Rohe11a
-  * 3/17: http://arxiv.org/abs/1407.4137
+  * 3/17: http://arxiv.org/abs/1407.4137 (Automatic discovery of cell types and microcircuitry from neural connectomics)
   * 3/19: http://arxiv.org/abs/1310.0532 (Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding), and http://arxiv.org/abs/1309.4111 
   * 3/24: Briggman et al. (2011): "Wiring specificity in the direction-selectivity circuit of the retina
   * 3/26: http://arxiv.org/abs/1207.6745 (Consistent latent position estimation and vertex classification for random dot product graphs) and Universally consistent vertex classification for latent positions graphs
   * 3/31: Mishchenko et al.: "Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective
-  * 4/2:  Hotelling31a
+  * 4/2:  
   * 4/7:  Space-time wiring specificity supports direction selectivity in the retina
-  * 4/9: A Semiparametric Two-sample Hypothesis Testing for Random Dot Product Graphs, A Nonparametric Two-sample Hypothesis Testing for Random Dot Product Graphs
+  * 4/9: Hotelling31a, A Semiparametric Two-sample Hypothesis Testing for Random Dot Product Graphs, A Nonparametric Two-sample Hypothesis Testing for Random Dot Product Graphs
   * 4/14: bobby's paper
   * 4/16: Finding and evaluating community structure in networks
   * 4/21: Imagenet classification with deep convolutional neural networks
-  * 4/23: McLachlan87a 
-  * 4/28: Hotelling36a
-  * 4/30: Hypothesis Testing for Automated Community Detection in Networks
+  * 4/23: Hotelling36a 
+  * 4/28: http://www.pnas.org/content/107/10/4734.short (Toward discovery science of human brain function)
+  * 4/30: McLachlan87a, Hypothesis Testing for Automated Community Detection in Networks
   
   

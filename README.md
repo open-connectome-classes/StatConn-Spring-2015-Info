@@ -29,7 +29,7 @@
 ## Syllabus 
 ### (all articles available here: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing)
 ### please read article before class
-### sign up with pull requests
+### sign up with pull requests (feel free to move papers around)
 
   * 1/27: hello, some graph basics (Euler1735)
   * 1/29: more graph basics, and graph stats (Goldenberg09a)
@@ -38,26 +38,26 @@
   * 2/10: images-to-graphs (i2g)
   * 2/12: Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)
   * 2/17: bock11
-  * 2/19: Snijders & Nowicki
-  * 2/24:
-  * 2/26:
-  * 3/3:
-  * 3/5:
-  * 3/10:
-  * 3/12:
-  * 3/17:
-  * 3/19:
-  * 3/24:
-  * 3/26:
-  * 3/31:
-  * 4/2:
-  * 4/7:
-  * 4/9:
-  * 4/14:
-  * 4/16:
-  * 4/21:
-  * 4/23:
-  * 4/28:
-  * 4/30:
+  * 2/19: Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)
+  * 2/24: Sporns05a
+  * 2/26: Hoff, P., Rafferty, A., and Handcock, M. (2002)
+  * 3/3: Varhsney et al. (2011)
+  * 3/5: you say graph invariant, i say test statistic
+  * 3/10: Pavlovic14a
+  * 3/12: Sussman12a, Rohe11a
+  * 3/17: http://arxiv.org/abs/1407.4137
+  * 3/19: http://arxiv.org/abs/1310.0532 (Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding), and http://arxiv.org/abs/1309.4111 
+  * 3/24: Briggman et al. (2011): "Wiring specificity in the direction-selectivity circuit of the retina
+  * 3/26: http://arxiv.org/abs/1207.6745 (Consistent latent position estimation and vertex classification for random dot product graphs) and Universally consistent vertex classification for latent positions graphs
+  * 3/31: Mishchenko et al.: "Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective
+  * 4/2:  Hotelling31a
+  * 4/7:  Space-time wiring specificity supports direction selectivity in the retina
+  * 4/9: A Semiparametric Two-sample Hypothesis Testing for Random Dot Product Graphs, A Nonparametric Two-sample Hypothesis Testing for Random Dot Product Graphs
+  * 4/14: bobby's paper
+  * 4/16: Finding and evaluating community structure in networks
+  * 4/21: Imagenet classification with deep convolutional neural networks
+  * 4/23: McLachlan87a 
+  * 4/28: Hotelling36a
+  * 4/30: Hypothesis Testing for Automated Community Detection in Networks
   
   

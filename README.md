@@ -19,9 +19,9 @@
 
 ## homework
 
-  * homework will be asking >2 questions of the presenter before the next presentation
+  * homework will be asking >2 questions of the presenter before the *next* presentation
   * each question will be an 'issue' in the corresponding github repo
-  * presenter has to address each question within a week of the due date of the question
+  * presenter has to address each question within a week of the due date of the question by responding to issues
   * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
 
 ## course project

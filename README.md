@@ -1,5 +1,13 @@
 # intro
 
+## stuff that would be useful to know
+
+  * some math/stat: graph theory, basic stats & prob, optimization theory, linear algebra
+  * some neurobiology
+  * some numerical programming language
+  * git & github
+  * how to make technical presentations
+
 ## weekly presentations
 
   * each week we will read 2 articles, one from neuro, one from graph-stats

@@ -22,6 +22,7 @@
   * homework will be asking >2 questions of the presenter before the *next* presentation
   * each question will be an 'issue' in the corresponding github repo
   * presenter has to address each question within a week of the due date of the question by responding to issues
+  * these issues and responses will be counted up.  the fraction you do in time counts for 50% of your grade.
   * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
 
 ## course project
@@ -29,7 +30,7 @@
   * there will be a course project due the last day possible,
   * you will again make a github repo
   * you will implement some statistical graph method to answer some neuroscientific problem
-  * the grading system will be: i will pull the repo, follow and necessary install instructions, and type 'make', or some such.  if code runs, figures are generated, and report is complied, you get an A. otherwise, an F. i recommend having your friends check before handing it in. 
+  * the grading system will be: i will pull the repo, follow and necessary install instructions, and type 'make', or some such.  if code runs, figures are generated, and report is complied, you get an A for the project, which will be 50% of your grade. i recommend having your friends check before handing it in. 
 
 ## TA
 

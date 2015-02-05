@@ -50,11 +50,31 @@
 for each lecture, here i list the questions we will try to answer, and the background required background reading.
 
 
-  * 1/27: What's a Graph? What's a Brain-Graph? [Euler1735
-  * 1/29: Why are t-tests insufficient? Why is math with graphs hard? Why do we need stats for graphs? [Goldenberg09a]
-  * 2/3: What is the simplest random graph model? What is the most complicated random graph model? What is an intermediate random graph model? [cajal-lecture]
-  * 2/5: What are graph attributes? What are edge attributes? What are vertex attributes? What are latent attributes? [mr. cap]
+  * 1/27: What are Brain Graphs? [Euler1735]
+   * What's a Graph? Directed? Loops? Weights?
+   * What's a Brain Vertex?
+   * What's a Brain Edge?
+   * How many graphs with n vertices?
+  * 1/29: Why do we want stats for graphs? [Goldenberg09a]
+   * Why are t-tests insufficient? 
+   * Why is math with graphs hard? 
+   * Why are features inadequate? 
+  * 2/3: What are some random graph models? [cajal-lecture]
+   *  What is the simplest random graph model? 
+   *  What is the most complicated random graph model? 
+   *  What is an intermediate random graph model? 
+  * 2/5: What are attributed graphs? [mr. cap]
+   * What are edge attributes? 
+   * What are vertex attributes? 
+   * What are graph attributes? 
+   * What are latent attributes?
   * 2/10: Statistical Decision Theory for Graphs [Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)]
+   * What is the Sample Space?
+   * What is the Statistical Model?
+   * What is the Action Space?
+   * What is the Decision Function Class?
+   * What is the Loss Functional?
+   * What is the Risk Functional?
   * 2/12: [Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)]
   * 2/17: [bock11]
   * 2/19: images-to-graphs (i2g)

@@ -9,6 +9,7 @@
  * class location: hodson 311
  * office hours: 4:15-5:00pm TT
  * google drive containing all relevant articles: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing
+ * communal class notes: https://docs.google.com/document/d/1YhhtP_KWaol2EsYQ7iX2oK0huT1Qi7erJ2zsX49AjC4/edit?usp=sharing
  * gitter community chat room: https://gitter.im/Statistical-Connectomics-Sp15/intro
 
 ## stuff that would be useful to know

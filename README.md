@@ -30,6 +30,7 @@
 
 ## homework
 
+ * read the article associated with each lecture before class
   * homework will be asking >=1 questions, answering >=1 questions, and either asking or answering an additional 2 questions,  before the *next* presentation
   * each question will be its own 'issue' in the corresponding github repo, this will ease grading
   * presenter has to address each question within a week of the due date of the question by responding to issues
@@ -45,9 +46,7 @@
 
 
 ## Syllabus 
-### (all articles available here: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing)
-### please read article before class
-### for each lecture, here i list the questions we will try to answer, and the background required background reading.
+for each lecture, here i list the questions we will try to answer, and the background required background reading.
 
 
   * 1/27: What's a Graph? What's a Brain-Graph? [Euler1735

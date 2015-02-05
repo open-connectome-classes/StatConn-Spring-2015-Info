@@ -1,5 +1,16 @@
 # intro
 
+## course info
+
+ * instructor: joshua vogelstein, jovo@cis.jhu.edu
+ * TA: greg kiar, gkiar@jhu.edu
+ * course website: https://github.com/Statistical-Connectomics-Sp15/intro
+ * class times: 3-4:15pm TT
+ * class location: hodson 311
+ * office hours: 4:15-5:00pm TT
+ * google drive containing all relevant articles: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing
+ * gitter community chat room: https://gitter.im/Statistical-Connectomics-Sp15/intro
+
 ## stuff that would be useful to know
 
   * some math/stat: graph theory, basic stats & prob, optimization theory, linear algebra
@@ -19,8 +30,8 @@
 
 ## homework
 
-  * homework will be asking >2 questions of the presenter before the *next* presentation
-  * each question will be an 'issue' in the corresponding github repo
+  * homework will be asking >=1 questions, answering >=1 questions, and either asking or answering an additional 2 questions,  before the *next* presentation
+  * each question will be its own 'issue' in the corresponding github repo, this will ease grading
   * presenter has to address each question within a week of the due date of the question by responding to issues
   * these issues and responses will be counted up.  the fraction you do in time counts for 50% of your grade.
   * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
@@ -32,23 +43,21 @@
   * you will implement some statistical graph method to answer some neuroscientific problem
   * the grading system will be: i will pull the repo, follow and necessary install instructions, and type 'make', or some such.  if code runs, figures are generated, and report is complied, you get an A for the project, which will be 50% of your grade. i recommend having your friends check before handing it in. 
 
-## TA
-
-  *  i want one, if you are auditing the class, and want money, and are willing to do a trivial amount of work, let me know.
 
 ## Syllabus 
 ### (all articles available here: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing)
 ### please read article before class
-### sign up with pull requests (feel free to move papers around)
+### for each lecture, here i list the questions we will try to answer, and the background required background reading.
 
-  * 1/27: hello, some graph basics (Euler1735)
-  * 1/29: more graph basics, and graph stats (Goldenberg09a)
-  * 2/3: intro to brain networks (cajal-lecture)
-  * 2/5: MRimages-to-graphs (mr. cap)
-  * 2/10: images-to-graphs (i2g)
-  * 2/12: Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)
-  * 2/17: bock11
-  * 2/19: Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)
+
+  * 1/27: What's a Graph? What's a Brain-Graph? [Euler1735
+  * 1/29: Why are t-tests insufficient? Why is math with graphs hard? Why do we need stats for graphs? [Goldenberg09a]
+  * 2/3: What is the simplest random graph model? What is the most complicated random graph model? What is an intermediate random graph model? [cajal-lecture]
+  * 2/5: What are graph attributes? What are edge attributes? What are vertex attributes? What are latent attributes? [mr. cap]
+  * 2/10: Statistical Decision Theory for Graphs [Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)]
+  * 2/12: [Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)]
+  * 2/17: [bock11]
+  * 2/19: images-to-graphs (i2g)
   * 2/24: Sporns05a
   * 2/26: Hoff, P., Rafferty, A., and Handcock, M. (2002)
   * 3/3: Varhsney et al. (2011)

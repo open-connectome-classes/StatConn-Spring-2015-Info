@@ -62,20 +62,27 @@ for each lecture, here i list the questions we will try to answer, and the backg
   * 2/3: What are some random graph models? [cajal-lecture]
    *  What is the simplest random graph model? 
    *  What is the most complicated random graph model? 
-   *  What is an intermediate random graph model? 
+   *  What are some intermediate random graph model? 
+    * Stochastic Block Model
+    * Random Dot Product Model
+    * Latent Position Model
   * 2/5: What are attributed graphs? [mr. cap]
    * What are edge attributes? 
    * What are vertex attributes? 
    * What are graph attributes? 
    * What are latent attributes?
-  * 2/10: Statistical Decision Theory for Graphs [Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)]
+  * 2/10: How can we cluster the vertices of a graph? [Feinberg & Wasserman (1981), Holland, Laskey & Leinhardty (1983)]
+   *  What is the distribution for latent vertex attributes?
+   *  How are the RDPG & SBM related?
+   *  What is the objective function?
+   *  How do we solve it?
+  * 2/12: Statistical Decision Theory for Graphs [Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)]
    * What is the Sample Space?
    * What is the Statistical Model?
    * What is the Action Space?
    * What is the Decision Function Class?
    * What is the Loss Functional?
    * What is the Risk Functional?
-  * 2/12: [Snijders & Nowicki (1997), Nowicki, K., and Snijders, T. A. B. (2001)]
   * 2/17: [bock11]
   * 2/19: images-to-graphs (i2g)
   * 2/24: Sporns05a

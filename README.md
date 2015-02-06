@@ -19,6 +19,7 @@
   * some numerical programming language
   * git & github
   * how to make technical presentations
+  * Python PEP8 Formatting (https://www.python.org/dev/peps/pep-0008/)
 
 ## weekly presentations
 

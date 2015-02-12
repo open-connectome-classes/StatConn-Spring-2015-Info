@@ -44,6 +44,18 @@
   * presenter has to address each question within a week of the due date of the question by responding to issues
   * these issues and responses will be counted up.  the fraction you do in time counts for 50% of your grade.
   * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
+ 
+
+## Issue tracker guidelines
+
+1. **[Search the issues](https://github.com/Statistical-Connectomics-Sp15/intro/issues)** for similar entries before submitting your own, there's a good chance somebody else had the same issue. Show your support with `:+1:` and/or join the discussion. Please submit issues in the following format (as the first post):
+1. **Summary:** Summarize your issue in one sentence (what goes wrong, what did you expect to happen)
+1. **Steps to reproduce:** How can we reproduce the issue
+1. **Expected behavior:** Describe your issue in detail
+1. **Observed behavior**
+1. **Relevant logs and/or screenshots:** Please use code blocks (\`\`\`) to format console output, logs, and code as it's very hard to read otherwise.
+1. **Possible fixes**: If you can, link to the line of code that might be responsible for the problem
+
 
 ## course project
   

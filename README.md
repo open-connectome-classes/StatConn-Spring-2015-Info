@@ -39,11 +39,11 @@
 ## homework
 
  * read the article associated with each lecture before class
-  * homework will be asking >=1 questions, answering >=1 questions, and either asking or answering an additional 2 questions,  before the *next* presentation
-  * each question will be its own 'issue' in the corresponding github repo, this will ease grading
-  * presenter has to address each question within a week of the due date of the question by responding to issues
-  * these issues and responses will be counted up.  the fraction you do in time counts for 50% of your grade.
-  * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
+ * homework will be asking >=1 questions, answering >=1 questions, and either asking or answering an additional 2 questions,  before the *next* presentation
+ * each question will be its own 'issue' in the corresponding github repo, this will ease grading
+ * presenter has to address each question within a week of the due date of the question by responding to issues
+ * these issues and responses will be counted up.  the fraction you do in time counts for 50% of your grade.
+ * these assignments are for you: thinking about the content even after it is presented can help consolidate the information in your head, it also gives you an opportunity to provide feedback to your classmates on what was clear, and what was not, so they can improve the presentation
  
 
 ## Issue tracker guidelines

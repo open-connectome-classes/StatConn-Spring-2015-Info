@@ -21,6 +21,12 @@
   * how to make technical presentations
   * Python PEP8 Formatting (https://www.python.org/dev/peps/pep-0008/)
 
+## useful libraries
+
+  * igraph (http://igraph.org/) for graph analytics in R or python (which we use/develop)
+  * FlashGraph (https://github.com/icoming/FlashGraph) for graph analytics at scale on commodity machine (which we use/develop)
+ * scikit learn (http://scikit-learn.org/stable/) machine learning in python (our friends develop)
+
 ## weekly presentations
 
   * each week we will read 2 articles, one from neuro, one from graph-stats

@@ -8,9 +8,9 @@
  * class times: 3-4:15pm TT
  * class location: hodson 311
  * office hours: 4:15-5:00pm TT
- * google drive containing all relevant articles: https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing
- * communal class notes: https://docs.google.com/document/d/1YhhtP_KWaol2EsYQ7iX2oK0huT1Qi7erJ2zsX49AjC4/edit?usp=sharing
- * gitter community chat room: https://gitter.im/Statistical-Connectomics-Sp15/intro
+ * google drive containing all relevant [articles] (https://drive.google.com/folderview?id=0By_9m7n8XhYKN0o4cHZNbHNWbTg&usp=sharing)
+ * communal [class notes](https://docs.google.com/document/d/1YhhtP_KWaol2EsYQ7iX2oK0huT1Qi7erJ2zsX49AjC4/edit?usp=sharing)
+ * gitter community [chat room](https://gitter.im/Statistical-Connectomics-Sp15/intro)
 
 ## stuff that would be useful to know
 
@@ -19,13 +19,14 @@
   * some numerical programming language
   * git & github
   * how to make technical presentations
-  * Python PEP8 Formatting (https://www.python.org/dev/peps/pep-0008/)
+  * [Python PEP8](https://www.python.org/dev/peps/pep-0008/) Formatting 
+  * Some other useful [recommendations](http://w.ocp.me/style:project)
 
 ## useful libraries
 
-  * igraph (http://igraph.org/) for graph analytics in R or python (which we use/develop)
-  * FlashGraph (https://github.com/icoming/FlashGraph) for graph analytics at scale on commodity machine (which we use/develop)
- * scikit learn (http://scikit-learn.org/stable/) machine learning in python (our friends develop)
+  * [igraph](http://igraph.org/) for graph analytics in R or python (which we use/develop)
+  * [FlashGraph](https://github.com/icoming/FlashGraph) for graph analytics at scale on commodity machine (which we use/develop)
+  * [scikit learn](http://scikit-learn.org/stable/) machine learning in python (our friends develop)
 
 ## weekly presentations
 

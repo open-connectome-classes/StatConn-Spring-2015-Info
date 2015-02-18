@@ -21,6 +21,8 @@
   * how to make technical presentations
   * [Python PEP8](https://www.python.org/dev/peps/pep-0008/) Formatting 
   * Some other useful [recommendations](http://w.ocp.me/style:project)
+  * [OCAR Examples](https://drive.google.com/open?id=0B_dAuemRqBb9fjRNc2VudTN1VVoxRkVGSjAxbU10SXp2OXZPX1V1VnQxamdaZXRYcm9tUFU&authuser=0)
+  * [Nam's Thing](https://drive.google.com/open?id=0B_dAuemRqBb9YUZWcVlfQ1lWdzg&authuser=0)
 
 ## useful libraries
 

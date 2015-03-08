@@ -4,7 +4,7 @@
 
  * instructor: joshua vogelstein, jovo@cis.jhu.edu
  * TA: greg kiar, gkiar@jhu.edu
- * course website: https://github.com/Statistical-Connectomics-Sp15/intro
+ * course website: https://github.com/openconnectome/Statistical-Connectomics-Clas
  * class times: 3-4:15pm TT
  * class location: hodson 311
  * office hours: 4:15-5:00pm TT
@@ -52,7 +52,7 @@
 
 ## Issue tracker guidelines
 
-1. **[Search the issues](https://github.com/Statistical-Connectomics-Sp15/intro/issues)** for similar entries before submitting your own, there's a good chance somebody else had the same issue. Show your support with `:+1:` and/or join the discussion. Please submit issues in the following format (as the first post):
+1. **[Search the issues](https://github.com/openconnectome/Statistical-Connectomics-Class/issues)** for similar entries before submitting your own, there's a good chance somebody else had the same issue. Show your support with `:+1:` and/or join the discussion. Please submit issues in the following format (as the first post):
 1. **Summary:** Summarize your issue in one sentence (what goes wrong, what did you expect to happen)
 1. **Steps to reproduce:** How can we reproduce the issue
 1. **Expected behavior:** Describe your issue in detail

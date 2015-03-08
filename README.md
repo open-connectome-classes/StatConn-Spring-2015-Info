@@ -4,7 +4,8 @@
 
  * instructor: joshua vogelstein, jovo@cis.jhu.edu
  * TA: greg kiar, gkiar@jhu.edu
- * course website: https://github.com/openconnectome/Statistical-Connectomics-Clas
+ * course website: https://github.com/openconnectome/Statistical-Connectomics-Class
+ * coursework submission website: https://github.com/openconnectome/Statistical-Connectomics-Coursework
  * class times: 3-4:15pm TT
  * class location: hodson 311
  * office hours: 4:15-5:00pm TT

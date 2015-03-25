@@ -117,8 +117,10 @@ for each lecture, here i list the questions we will try to answer, and the backg
   * 3/12: Presentation by Max Collard and Jerry Wang: ___
   * 3/17: http://arxiv.org/abs/1407.4137 (Automatic discovery of cell types and microcircuitry from neural connectomics)
   * 3/19: http://arxiv.org/abs/1310.0532 (Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding), and http://arxiv.org/abs/1309.4111 
-  * 3/24: Briggman et al. (2011): "Wiring specificity in the direction-selectivity circuit of the retina
-  * 3/26: http://arxiv.org/abs/1207.6745 (Consistent latent position estimation and vertex classification for random dot product graphs) and Universally consistent vertex classification for latent positions graphs
+  * 3/24: Stochastic Blockmodeling of the Modules and Core of the Caenorhabditis elegans Connectome
+   * HW: due 3/26; 2q+2a
+  * 3/26: A multivariate distance-based analytic framework for connectome-wide association studies
+   * HW: due 4/2; project proposal
   * 3/31: Mishchenko et al.: "Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective
   * 4/2:  Finding and evaluating community structure in networks
   * 4/7:  Space-time wiring specificity supports direction selectivity in the retina

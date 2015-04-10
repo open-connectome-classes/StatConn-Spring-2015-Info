@@ -114,21 +114,26 @@ for each lecture, here i list the questions we will try to answer, and the backg
   * 3/3: Varhsney et al. (2011)
   * 3/5: you say graph invariant, i say test statistic
   * 3/10: Presentation by Nam Lee: Wang and Bickel
-  * 3/12: Presentation by Max Collard and Jerry Wang: ___
+  * 3/12: Presentation by Max Collard and Jerry Wang
   * 3/17: http://arxiv.org/abs/1407.4137 (Automatic discovery of cell types and microcircuitry from neural connectomics)
   * 3/19: http://arxiv.org/abs/1310.0532 (Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding), and http://arxiv.org/abs/1309.4111 
   * 3/24: Stochastic Blockmodeling of the Modules and Core of the Caenorhabditis elegans Connectome
    * HW: due 3/26; 2q+2a
   * 3/26: A multivariate distance-based analytic framework for connectome-wide association studies
    * HW: due 4/2; project proposal
-  * 3/31: Mishchenko et al.: "Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective
-  * 4/2:  Finding and evaluating community structure in networks
-  * 4/7:  Space-time wiring specificity supports direction selectivity in the retina
-  * 4/9: Hotelling31a, A Semiparametric Two-sample Hypothesis Testing for Random Dot Product Graphs, A Nonparametric Two-sample Hypothesis Testing for Random Dot Product Graphs
-  * 4/14: bobby's paper
-  * 4/16: signal subgraphs
-  * 4/21: Imagenet classification with deep convolutional neural networks
-  * 4/23: Hotelling36a 
+  * 3/31: workshopping (chatting about proposals)
+  * 4/2: Effective Data Mining using Neural Networks () presented by Alan
+   * HW: due 4/2: 2q+2a
+  * 4/7:  Hebbian phase sequences (Almeida-Filho) presented by William, Duo, and Erika
+   * HW: due 4/9: 2q+2a
+  * 4/9:  Dense inhibitory connectivity (Fino) presented by Ally and Rohit
+   * HW: due 4/14; redefining edges and nodes in a graph 
+  * 4/14: Graph Matching presented by Jason Matterer
+   * HW: due 4/16; 2q+2a 
+  * 4/16: Connectomics for Brain Disease (Bullmore) presented by Sandya, Sandra, and Indigo
+   * HW: due 4/21; 2q+2a
+  * 4/21: Hotelling2013a presented by Elan and Austin
+  * 4/23: Loopy Curvilinear Stuctures presented by David and Michael
   * 4/28: http://www.pnas.org/content/107/10/4734.short (Toward discovery science of human brain function)
   * 4/30: McLachlan87a, Hypothesis Testing for Automated Community Detection in Networks
   

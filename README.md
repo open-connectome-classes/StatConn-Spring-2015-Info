@@ -132,9 +132,9 @@ for each lecture, here i list the questions we will try to answer, and the backg
    * HW: due 4/16; 2q+2a 
   * 4/16: Connectomics for Brain Disease (Bullmore) presented by Sandya, Sandra, and Indigo
    * HW: due 4/21; 2q+2a
-  * 4/21: Hotelling2013a presented by Elan and Austin
+  * 4/21: Graph Classification Using Signal-Subgraphs: Applications in Statistical Connectomics (Vogelstein), presented by Elan and Austin
   * 4/23: Loopy Curvilinear Stuctures presented by David and Michael
-  * 4/28: http://www.pnas.org/content/107/10/4734.short (Toward discovery science of human brain function)
-  * 4/30: McLachlan87a, Hypothesis Testing for Automated Community Detection in Networks
+  * 4/28: [] presented by Michele Lohr and Allen Kim
+  * 4/30: Hierarchical stochastic block models by Vince Lyzinski
   
   

@@ -133,6 +133,7 @@ for each lecture, here i list the questions we will try to answer, and the backg
   * 4/16: Connectomics for Brain Disease (Bullmore) presented by Sandya, Sandra, and Indigo
    * HW: due 4/21; 2q+2a
   * 4/21: Graph Classification Using Signal-Subgraphs: Applications in Statistical Connectomics (Vogelstein), presented by Elan and Austin
+   * HW: due 4/23; 2q+2a
   * 4/23: Loopy Curvilinear Stuctures presented by David and Michael
   * 4/28: Network dynamics of the brain and influence of the epileptic seizure onset zone (Burns) presented by Michele Lohr and Allen Kim
   * 4/30: Hierarchical stochastic block models by Vince Lyzinski

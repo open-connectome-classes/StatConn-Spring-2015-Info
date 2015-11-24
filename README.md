@@ -1,5 +1,7 @@
 # intro
 
+This course will cover the basics of an exciting emerging field of statistical connectomics (aka, brain-graphs). It is so new, that we are going to make some of it up in this class! The first week will be introductory lectures that I give. The rest of the semester will be run like a seminar; each week will focus on a different topic. On Tuesdays we will hear about a statistical method that operates on graphs, and on Thursdays we will read about some neuroscience data upon which one could apply these techniques. The final project will consist of implementing a statistical method devised for graphs on a brain-graph problem. Recommended background: coursework in probability, linear algebra, and numerical programming (eg, R, Python). 
+
 ## course info
 
  * instructor: joshua vogelstein, jovo@cis.jhu.edu
